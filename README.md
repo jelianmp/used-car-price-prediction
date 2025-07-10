@@ -40,7 +40,8 @@ used-car-price-prediction/
 
 ├── car_data.csv
 
-💬 Notas
+💬 Notas:
+
 Se compara el desempeño de los modelos tanto en precisión como en eficiencia.
 
 Ideal para casos donde se necesita velocidad y precisión al mismo tiempo.
